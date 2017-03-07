@@ -1,0 +1,14 @@
+{
+  "name": "sse-server",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.1",
+    "eventsource": "^0.2.2",
+    "express": "^4.15.2",
+    "webpack": "^2.2.1"
+  }
+}
